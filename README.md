@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 
 * [PyLoL](https://github.com/MiscellaneousStuff/pylol)
 * [LoLGym](https://github.com/MiscellaneousStuff/lolgym)
+* [LoLRLE](https://github.com/MiscellaneousStuff/LoLRLE)
