@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 
 ### Supervised Learning
 
-* [TLoL](https://github.com/MiscellaneousStuff/tlol)
-* [TLoL-Py](https://github.com/MiscellaneousStuff/tlol-py)
+* [TLoL](https://github.com/MiscellaneousStuff/tlol) League of Legends replay datasets and analysis
+* [TLoL-Py](https://github.com/MiscellaneousStuff/tlol-py) League of Legends game 
 
-### Reinforcement Learning
+### Reinforcement Learning (LoLRLE)
 
-* [PyLoL](https://github.com/MiscellaneousStuff/pylol)
-* [LeagueSandbox-RL-Learning](https://github.com/MiscellaneousStuff/LeagueSandbox-RL-Learning)
-* [LoLGym](https://github.com/MiscellaneousStuff/lolgym)
-* [LoLRLE](https://github.com/MiscellaneousStuff/LoLRLE)
+* [PyLoL](https://github.com/MiscellaneousStuff/pylol) League of Legends v4.20 Reinforcement Learning Module
+* [LeagueSandbox-RL-Learning](https://github.com/MiscellaneousStuff/LeagueSandbox-RL-Learning) League of Legends v4.20 Server Emulator (Adapted for RL)
+* [LoLGym](https://github.com/MiscellaneousStuff/lolgym) League of Legends v4.20 OpenAI Gym Environment
+* [LoLRLE](https://github.com/MiscellaneousStuff/LoLRLE) League of Legends RL algorithms (PPO)
 
 # Misc
 
