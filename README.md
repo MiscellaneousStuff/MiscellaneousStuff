@@ -29,5 +29,6 @@ Here are some ideas to get you started:
 ### Reinforcement Learning
 
 * [PyLoL](https://github.com/MiscellaneousStuff/pylol)
+* [LeagueSandbox-RL-Learning](https://github.com/MiscellaneousStuff/LeagueSandbox-RL-Learning)
 * [LoLGym](https://github.com/MiscellaneousStuff/lolgym)
 * [LoLRLE](https://github.com/MiscellaneousStuff/LoLRLE)
