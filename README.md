@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 # Misc
 
 * [Rhythm Bot Clone](https://github.com/MiscellaneousStuff/tunebot-public)
-* [Unix Clone](https://github.com/MiscellaneousStuff/fritter)
+* [Unix Clone](https://github.com/MiscellaneousStuff/fritter) Unix Clone Written for x86 (Based on xv6 and online tutorials)
