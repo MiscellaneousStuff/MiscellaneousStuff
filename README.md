@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# League of Legends
+
+## Game Playing Agent
+
+### Supervised Learning
+
+* [TLoL](https://github.com/MiscellaneousStuff/tlol)
+* [TLoL-Py](https://github.com/MiscellaneousStuff/tlol-py)
+
+### Reinforcement Learning
+
+* [PyLoL](https://github.com/MiscellaneousStuff/pylol)
+* [LoLGym](https://github.com/MiscellaneousStuff/lolgym)
