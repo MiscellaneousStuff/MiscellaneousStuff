@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 
 ## Game Playing Agent
 
-### Supervised Learning
+### Supervised Learning (Season 11)
 
 * [TLoL](https://github.com/MiscellaneousStuff/tlol) League of Legends S11 Replay Datasets and Analysis
 * [TLoL-Py](https://github.com/MiscellaneousStuff/tlol-py) League of Legends S11 Game Playing and Analysis Module
 
-### Reinforcement Learning (LoLRLE)
+### Reinforcement Learning (LoLRLE, Patch v4.20)
 
 * [PyLoL](https://github.com/MiscellaneousStuff/pylol) League of Legends v4.20 Reinforcement Learning Module
 * [LeagueSandbox-RL-Learning](https://github.com/MiscellaneousStuff/LeagueSandbox-RL-Learning) League of Legends v4.20 Server Emulator (Adapted for RL)
