@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Blog
+
+* [Projects Blog](https://miscellaneousstuff.github.io/)
+
 # League of Legends
 
 ## Game Playing Agent
