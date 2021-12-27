@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Blog
 
-* [Projects Blog](https://miscellaneousstuff.github.io/)
+* [Projects Blog](https://miscellaneousstuff.github.io/) Explanation of Personal Projects
 
 # League of Legends
 
