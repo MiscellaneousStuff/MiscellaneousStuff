@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 ### Supervised Learning
 
-* [TLoL](https://github.com/MiscellaneousStuff/tlol) League of Legends replay datasets and analysis
-* [TLoL-Py](https://github.com/MiscellaneousStuff/tlol-py) League of Legends game 
+* [TLoL](https://github.com/MiscellaneousStuff/tlol) League of Legends S11 Replay Datasets and Analysis
+* [TLoL-Py](https://github.com/MiscellaneousStuff/tlol-py) League of Legends S11 Game Playing and Analysis Module
 
 ### Reinforcement Learning (LoLRLE)
 
