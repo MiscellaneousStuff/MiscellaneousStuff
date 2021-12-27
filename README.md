@@ -32,3 +32,8 @@ Here are some ideas to get you started:
 * [LeagueSandbox-RL-Learning](https://github.com/MiscellaneousStuff/LeagueSandbox-RL-Learning)
 * [LoLGym](https://github.com/MiscellaneousStuff/lolgym)
 * [LoLRLE](https://github.com/MiscellaneousStuff/LoLRLE)
+
+# Misc
+
+* [Rhythm Bot Clone](https://github.com/MiscellaneousStuff/tunebot-public)
+* [Unix Clone](https://github.com/MiscellaneousStuff/fritter)
