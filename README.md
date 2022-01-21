@@ -43,3 +43,8 @@ Here are some ideas to get you started:
 # Time Management
 
 * [Time Analysis](https://github.com/MiscellaneousStuff/time-analysis) Analysis Google Calendar events
+
+# Cookie Clicker
+
+* [Expo App](https://github.com/MiscellaneousStuff/cookie-clicker-expo) Universal app which wowrks with the mobile version of Cookie Clicker
+* [Mobile-Friendly Site](https://github.com/MiscellaneousStuff/cookie_clicker_site) Mobile friendly version of the Cookie Clicker website
