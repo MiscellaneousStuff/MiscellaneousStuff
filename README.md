@@ -33,10 +33,6 @@ Here are some ideas to get you started:
 * [LoLGym](https://github.com/MiscellaneousStuff/lolgym) League of Legends v4.20 OpenAI Gym Environment
 * [LoLRLE](https://github.com/MiscellaneousStuff/LoLRLE) League of Legends RL algorithms (PPO)
 
-# Time Management
-
-* [Time Analysis](https://github.com/MiscellaneousStuff/time-analysis) Analysis Google Calendar events
-
 # Cookie Clicker
 
 * [Expo App](https://github.com/MiscellaneousStuff/cookie-clicker-expo) Universal app which wowrks with the mobile version of Cookie Clicker
@@ -44,6 +40,7 @@ Here are some ideas to get you started:
 
 # Misc
 
+* [Time Analysis](https://github.com/MiscellaneousStuff/time-analysis) Analysis Google Calendar events
 * [Rhythm Bot Clone](https://github.com/MiscellaneousStuff/tunebot-public)
 * [Unix Clone](https://github.com/MiscellaneousStuff/fritter) Unix Clone Written for x86 (Based on xv6 and online tutorials)
 * [UoP: Bus App](https://github.com/MiscellaneousStuff/uop-bus-app) University of Portsmouth: Bus App
