@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 * [TLoL](https://github.com/MiscellaneousStuff/tlol) League of Legends S11 Replay Datasets and Analysis
 * [TLoL-Py](https://github.com/MiscellaneousStuff/tlol-py) League of Legends S11 and S12 Game Playing and Analysis Module
+* [TLoL-Scraper](https://github.com/MiscellaneousStuff/tlol-py) League of Legends S12 Replay Extractor and Dataset Generator
 
 ### Reinforcement Learning (LoLRLE, Patch v4.20)
 
@@ -35,12 +36,12 @@ Here are some ideas to get you started:
 
 # Cookie Clicker
 
-* [Expo App](https://github.com/MiscellaneousStuff/cookie-clicker-expo) Universal app which wowrks with the mobile version of Cookie Clicker
+* [Expo App](https://github.com/MiscellaneousStuff/cookie-clicker-expo) Universal app which works with the mobile version of Cookie Clicker
 * [Mobile-Friendly Site](https://github.com/MiscellaneousStuff/cookie_clicker_site) Mobile friendly version of the Cookie Clicker website
 
 # Misc
 
-* [Time Analysis](https://github.com/MiscellaneousStuff/time-analysis) Analysis Google Calendar events
+* [Time Analysis](https://github.com/MiscellaneousStuff/time-analysis) Analyse Google Calendar events
 * [Rhythm Bot Clone](https://github.com/MiscellaneousStuff/tunebot-public)
 * [Unix Clone](https://github.com/MiscellaneousStuff/fritter) Unix Clone Written for x86 (Based on xv6 and online tutorials)
 * [UoP: Bus App](https://github.com/MiscellaneousStuff/uop-bus-app) University of Portsmouth: Bus App
