@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 * [TLoL](https://github.com/MiscellaneousStuff/tlol) League of Legends S11 Replay Datasets and Analysis
 * [TLoL-Py](https://github.com/MiscellaneousStuff/tlol-py) League of Legends S11 and S12 Game Playing and Analysis Module
-* [TLoL-Scraper](https://github.com/MiscellaneousStuff/tlol-py) League of Legends S12 Replay Extractor and Dataset Generator
+* [TLoL-Scraper](https://github.com/MiscellaneousStuff/tlol-scraper) League of Legends S12 Replay Extractor and Dataset Generator
 
 ### Reinforcement Learning (LoLRLE, Patch v4.20)
 
