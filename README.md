@@ -39,6 +39,10 @@ Here are some ideas to get you started:
 * [Expo App](https://github.com/MiscellaneousStuff/cookie-clicker-expo) Universal app which works with the mobile version of Cookie Clicker
 * [Mobile-Friendly Site](https://github.com/MiscellaneousStuff/cookie_clicker_site) Mobile friendly version of the Cookie Clicker website
 
+# Discord Bots
+
+* [all-time-bangers](https://github.com/MiscellaneousStuff/all-time-bangers) Lets Discord users vote songs to add to a mega playlist
+
 # Misc
 
 * [Time Analysis](https://github.com/MiscellaneousStuff/time-analysis) Analyse Google Calendar events
