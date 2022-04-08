@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 # Discord Bots
 
-* [all-time-bangers](https://github.com/MiscellaneousStuff/all-time-bangers) Lets Discord users vote songs to add to a mega playlist
+* [all-time-bangers](https://github.com/MiscellaneousStuff/all-time-bangers) Lets discord users vote on songs to add to a mega playlist by reacting to them with a 🐐 emoji
 
 # Misc
 
