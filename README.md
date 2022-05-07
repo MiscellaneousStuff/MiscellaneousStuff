@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # sEMG Silent Speech
 
-* [sEMG Silent Speech - Speech Recognition](semg-asr) State-of-the-art (SOTA) approach for sEMG silent speech ASR which builds on the SOTA transduction model for silent speech
+* [sEMG Silent Speech - Speech Recognition](https://github.com/MiscellaneousStuff/semg-asr) State-of-the-art (SOTA) approach for sEMG silent speech ASR which builds on the SOTA transduction model for silent speech
 
 # League of Legends
 
