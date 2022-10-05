@@ -54,3 +54,5 @@ Here are some ideas to get you started:
 * [Unix Clone](https://github.com/MiscellaneousStuff/fritter) Unix Clone Written for x86 (Based on xv6 and online tutorials)
 * [UoP: Bus App](https://github.com/MiscellaneousStuff/uop-bus-app) University of Portsmouth: Bus App
 * [Socket.IO Rock-Paper-Scissors](https://github.com/MiscellaneousStuff/rock-paper-scissors)
+
+[![MiscellaneousStuff's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiscellaneousStuff)](https://github.com/MiscellaneousStuff/github-readme-stats)
