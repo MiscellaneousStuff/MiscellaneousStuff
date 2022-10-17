@@ -17,15 +17,12 @@ Here are some ideas to get you started:
 
 * [Projects Blog](https://miscellaneousstuff.github.io/) Explanation of Personal Projects
 
-# EEG Speech Synthesis
+# EEG/sEMG Speech
 
+* [sEMG Silent Speech - Speech Recognition](https://github.com/MiscellaneousStuff/semg-asr) State-of-the-art (SOTA) approach for sEMG silent speech ASR which builds on the SOTA transduction model for silent speech
 * [kara-one-transduction](https://github.com/MiscellaneousStuff/kara-one-transduction) Experiments demonstrating
 feasibility of synthesizing speech from EEG signals during stimuli, vocal and imagined conditions. Applying SOTA
 sEMG Silent Speech synthesis methods to EEG signals is viable.
-
-# sEMG Silent Speech
-
-* [sEMG Silent Speech - Speech Recognition](https://github.com/MiscellaneousStuff/semg-asr) State-of-the-art (SOTA) approach for sEMG silent speech ASR which builds on the SOTA transduction model for silent speech
 
 # League of Legends
 
