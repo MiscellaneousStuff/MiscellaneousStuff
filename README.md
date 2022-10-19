@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 * [kara-one-transduction](https://github.com/MiscellaneousStuff/kara-one-transduction) Experiments demonstrating
 feasibility of synthesizing speech from EEG signals during stimuli, vocal and imagined conditions. Applying SOTA
 sEMG Silent Speech synthesis methods to EEG signals is viable.
+* [eeg-stimuli](https://github.com/MiscellaneousStuff/eeg-stimuli/) Experiments on the Brennan 2019 EEG Stimuli dataset validating and improving on results from [Decoding speech from non-invasive brain recordings](https://arxiv.org/abs/2208.12266)
 
 # League of Legends
 
