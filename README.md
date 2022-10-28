@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 # ASR
 * [OpenAI Whisper - CPU](https://github.com/MiscellaneousStuff/openai-whisper-cpu) Application of PyTorch Dynamic Quantization for CPU deployment to OpenAI Whisper model with benchmarks
+* [DeepSpeech2](https://github.com/MiscellaneousStuff/asr) LJSpeech and sEMG Silent Speech classification
 
 # EEG/sEMG Speech
 
