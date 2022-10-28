@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 * [Projects Blog](https://miscellaneousstuff.github.io/) Explanation of Personal Projects
 
+# ASR
+* [OpenAI Whisper - CPU](https://github.com/MiscellaneousStuff/openai-whisper-cpu) Application of PyTorch Dynamic Quantization for CPU deployment to OpenAI Whisper model with benchmarks
+
 # EEG/sEMG Speech
 
 * [sEMG Silent Speech - Speech Recognition](https://github.com/MiscellaneousStuff/semg-asr) State-of-the-art (SOTA) approach for sEMG silent speech ASR which builds on the SOTA transduction model for silent speech
