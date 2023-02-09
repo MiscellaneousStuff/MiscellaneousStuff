@@ -33,6 +33,9 @@ sEMG Silent Speech synthesis methods to EEG signals is viable.
 
 ## Game Playing Agent
 
+### Reinforcement Learning (Season 13)
+* [TLoL-RL](https://github.com/MiscellaneousStuff/tlol-rl) League of Legends Season 13 RL Module to Train Agents to Play League of Legends
+
 ### Supervised Learning (Season 11 and 12)
 
 * [TLoL](https://github.com/MiscellaneousStuff/tlol) League of Legends S11 Replay Datasets and Analysis
