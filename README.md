@@ -58,12 +58,9 @@ sEMG Silent Speech synthesis methods to EEG signals is viable.
 * [Expo App](https://github.com/MiscellaneousStuff/cookie-clicker-expo) Universal app which works with the mobile version of Cookie Clicker
 * [Mobile-Friendly Site](https://github.com/MiscellaneousStuff/cookie_clicker_site) Mobile friendly version of the Cookie Clicker website
 
-# Discord Bots
-
-* [all-time-bangers](https://github.com/MiscellaneousStuff/all-time-bangers) Lets discord users vote on songs to add to a mega playlist by reacting to them with a 🐐 emoji
-
 # Misc
 
+* [all-time-bangers](https://github.com/MiscellaneousStuff/all-time-bangers) Lets discord users vote on songs to add to a mega playlist by reacting to them with a 🐐 emoji
 * [Time Analysis](https://github.com/MiscellaneousStuff/time-analysis) Analyse Google Calendar events
 * [Rhythm Bot Clone](https://github.com/MiscellaneousStuff/tunebot-public)
 * [Unix Clone](https://github.com/MiscellaneousStuff/fritter) Unix Clone Written for x86 (Based on xv6 and online tutorials)
