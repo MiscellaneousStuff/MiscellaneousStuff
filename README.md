@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 # Re-Implementations
 * [ResNet](https://github.com/MiscellaneousStuff/resnet) Residual connection-based image recognition network
 * [Vision Transformer (ViT)](https://github.com/MiscellaneousStuff/vision-transformer) Transformer-based image recognition network
-
+* [FastSpeech](https://github.com/MiscellaneousStuff/fastspeech) Text-to-speech acoustic model network
+  
 # ASR
 * [OpenAI Whisper - CPU](https://github.com/MiscellaneousStuff/openai-whisper-cpu) Application of PyTorch Dynamic Quantization for CPU deployment to OpenAI Whisper model with benchmarks
 * [DeepSpeech2](https://github.com/MiscellaneousStuff/asr) LJSpeech and sEMG Silent Speech classification
