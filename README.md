@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 # Traffic Analysis (MEng Computer Science - Team Project)
 * [MEng-Team-Project](https://github.com/MEng-Team-Project) Full-Stack and Microservice for Traffic Scraping and Analysis
+  * [MEng-Team-Project/Web](https://github.com/MEng-Team-Project/MEng-Team-Project-Web) Full-Stack (ReactJS / ExpressJS)
+  * [MEng-Team-Project/ML](https://github.com/MEng-Team-Project/MEng-Team-Project-ML) Microservice (Flask with TensorRT'd YOLOv8 / StrongSORT)
 
 # Re-Implementations (or Inspired Approaches)
 * [ResNet](https://github.com/MiscellaneousStuff/resnet) Residual connection-based image recognition network
