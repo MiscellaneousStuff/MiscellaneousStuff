@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 # Traffic Analysis (MEng Computer Science - Team Project)
 * [MEng-Team-Project](https://github.com/MEng-Team-Project) Full-Stack and Microservice for Traffic Scraping and Analysis
 
-# Re-Implementations
+# Re-Implementations (or Inspired Approaches)
 * [ResNet](https://github.com/MiscellaneousStuff/resnet) Residual connection-based image recognition network
 * [Vision Transformer (ViT)](https://github.com/MiscellaneousStuff/vision-transformer) Transformer-based image recognition network
-* [Dall-E](https://github.com/MiscellaneousStuff/dall-e) Text-to-image generation model
+* [Dall-E](https://github.com/MiscellaneousStuff/dall-e) (Loosely Inspired) Text-to-image generation model
   
 # ASR
 * [OpenAI Whisper - CPU](https://github.com/MiscellaneousStuff/openai-whisper-cpu) Application of PyTorch Dynamic Quantization for CPU deployment to OpenAI Whisper model with benchmarks
