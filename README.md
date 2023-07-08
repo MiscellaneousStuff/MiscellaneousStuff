@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 * [Projects Blog](https://miscellaneousstuff.github.io/) Explanation of Personal Projects
 
+# Traffic Analysis (MEng Computer Science - Team Project)
+* [MEng-Team-Project](https://github.com/MEng-Team-Project)
+
 # Re-Implementations
 * [ResNet](https://github.com/MiscellaneousStuff/resnet) Residual connection-based image recognition network
 * [Vision Transformer (ViT)](https://github.com/MiscellaneousStuff/vision-transformer) Transformer-based image recognition network
