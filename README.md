@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 * [ResNet](https://github.com/MiscellaneousStuff/resnet) Residual connection-based image recognition network
 * [Vision Transformer (ViT)](https://github.com/MiscellaneousStuff/vision-transformer) Transformer-based image recognition network
 * [Dall-E](https://github.com/MiscellaneousStuff/dall-e) (Loosely Inspired) Text-to-image generation model
+* [Tortoise-TTS](https://github.com/MiscellaneousStuff/tortoise-tts) (Loosely Inspired) Text-to-speech generation model
   
 # ASR
 * [OpenAI Whisper - CPU](https://github.com/MiscellaneousStuff/openai-whisper-cpu) Application of PyTorch Dynamic Quantization for CPU deployment to OpenAI Whisper model with benchmarks
