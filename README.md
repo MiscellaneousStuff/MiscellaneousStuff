@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 * [ResNet](https://github.com/MiscellaneousStuff/resnet) Residual connection-based image recognition network
 * [Vision Transformer (ViT)](https://github.com/MiscellaneousStuff/vision-transformer) Transformer-based image recognition network
 * [Dall-E](https://github.com/MiscellaneousStuff/dall-e) (Loosely Inspired) Text-to-image generation model
-* [PhoneLM](https://github.com/MiscellaneousStuff/PhoneLM) Text-to-speech generation model
+* [PhoneLM](https://github.com/MiscellaneousStuff/PhoneLM) ([VALL-E](https://github.com/enhuiz/vall-e), [MegaByte](https://github.com/lucidrains/MEGABYTE-pytorch) Inspired) Text-to-speech generation model
 
 # Traffic Analysis (MEng Computer Science - Team Project)
 * [MEng-Team-Project](https://github.com/MEng-Team-Project) Full-Stack and Microservice for Traffic Scraping and Analysis
