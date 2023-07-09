@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 
 * [Projects Blog](https://miscellaneousstuff.github.io/) Explanation of Personal Projects
 
-# Traffic Analysis (MEng Computer Science - Team Project)
-* [MEng-Team-Project](https://github.com/MEng-Team-Project) Full-Stack and Microservice for Traffic Scraping and Analysis
-  * [MEng-Team-Project/Web](https://github.com/MEng-Team-Project/MEng-Team-Project-Web) Full-Stack (ReactJS / ExpressJS)
-  * [MEng-Team-Project/ML](https://github.com/MEng-Team-Project/MEng-Team-Project-ML) Microservice (Flask with TensorRT'd YOLOv8 / StrongSORT)
-
 # Re-Implementations (or Inspired Approaches)
 * [ResNet](https://github.com/MiscellaneousStuff/resnet) Residual connection-based image recognition network
 * [Vision Transformer (ViT)](https://github.com/MiscellaneousStuff/vision-transformer) Transformer-based image recognition network
 * [Dall-E](https://github.com/MiscellaneousStuff/dall-e) (Loosely Inspired) Text-to-image generation model
 * [Tortoise-TTS](https://github.com/MiscellaneousStuff/tortoise-tts) (Loosely Inspired) Text-to-speech generation model
+
+# Traffic Analysis (MEng Computer Science - Team Project)
+* [MEng-Team-Project](https://github.com/MEng-Team-Project) Full-Stack and Microservice for Traffic Scraping and Analysis
+  * [MEng-Team-Project/Web](https://github.com/MEng-Team-Project/MEng-Team-Project-Web) Full-Stack (ReactJS / ExpressJS)
+  * [MEng-Team-Project/ML](https://github.com/MEng-Team-Project/MEng-Team-Project-ML) Microservice (Flask with TensorRT'd YOLOv8 / StrongSORT)
   
 # ASR
 * [OpenAI Whisper - CPU](https://github.com/MiscellaneousStuff/openai-whisper-cpu) Application of PyTorch Dynamic Quantization for CPU deployment to OpenAI Whisper model with benchmarks
