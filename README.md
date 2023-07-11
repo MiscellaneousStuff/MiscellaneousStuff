@@ -3,15 +3,19 @@
 <tr><th>Paper Re-Implementations</th><th>Inspired Approaches</th></tr>
  
 <tr><td>
+ 
 |Title|Stars|Technology|
 |--|--|--|
 |a|b|c|
+
 </td>
 
 <td>
-|Title|Stars|Technology|
+
+ |Title|Stars|Technology|
 |--|--|--|
 |a|b|c|
+
 </td></tr>
 
 </table>
