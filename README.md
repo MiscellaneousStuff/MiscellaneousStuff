@@ -13,9 +13,12 @@
 <summary>📈 Stats</summary>
 <br>
 My Github Stats
+ 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiscellaneousStuff&theme=dracula) 
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiscellaneousStuff&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiscellaneousStuff&theme=dracula)
+
 </details>
 
 <!--
