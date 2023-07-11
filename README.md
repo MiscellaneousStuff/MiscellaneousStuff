@@ -6,7 +6,8 @@
  
 |Title|Stars|Technology|
 |--|--|--|
-|a|b|c|
+|[ResNet](https://github.com/MiscellaneousStuff/resnet)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/resnet?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
+|[Vision Transformer (ViT)](https://github.com/MiscellaneousStuff/vision-transformer)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/vision-transformer?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
 
 </td>
 
