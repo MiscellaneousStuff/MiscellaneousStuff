@@ -27,8 +27,8 @@
 </table>
  
 <table>
-<tr><th>League of Legends</th><th>EEG/EMG</th></tr>
-<tr><td>
+<tr><th>League of Legends</th></tr>
+<td>
  
 |Title|Stars|Technology|
 |--|--|--|
@@ -38,8 +38,9 @@
 |[PyLoL (League 4.20 RL)](https://github.com/MiscellaneousStuff/pylol) [![Downloads](https://pepy.tech/badge/pylol-rl)](https://pepy.tech/project/pylol-rl)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/pylol?style=flat-square&labelColor=black"/>|![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)|
 |[Patch 4.20 Simulator for RL](https://github.com/MiscellaneousStuff/LeagueSandbox-RL-Learning)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/LeagueSandbox-RL-Learning?style=flat-square&labelColor=black"/>|![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)<br/>![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)|
 |[LeagueGPT](https://github.com/MiscellaneousStuff/tlol-llm)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/tlol-llm?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)<br/>![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)<br/>![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)||
-</td><td>
+</td><tr></table>
 
+<!--
 |Title|Stars|Technology|
  |--|--|--|
 |[sEMG Silent Speech Recogntion](https://github.com/MiscellaneousStuff/semg-asr)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/eeg-stimuli?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -47,6 +48,7 @@
 |[EEG Speech Synthesis](https://github.com/MiscellaneousStuff/kara-one-transduction)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/kara-one-transduction?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)<br/>![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 </td></tr>
 </table>
+-->
 
 <details>
 <summary>📈 Stats</summary>
