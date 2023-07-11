@@ -11,6 +11,7 @@
 
 |Title|Stars|Technology|
 |--|--|--|
+|[OpenAI Whisper - CPU](https://github.com/MiscellaneousStuff/openai-whisper-cpu)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/openai-whisper?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)||
 |[PhoneLM](https://github.com/MiscellaneousStuff/PhoneLM)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/PhoneLM?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
 |[DALL-E](https://github.com/MiscellaneousStuff/dall-e)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/dall-e?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
 |[MegaByte](https://github.com/MiscellaneousStuff/megabyte)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/megabyte?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
