@@ -1,12 +1,19 @@
 ## Open Source Projects
 <table>
 <tr><th>Paper Re-Implementations</th><th>Inspired Approaches</th></tr>
+ 
 <tr><td>
+|Title|Stars|Technology|
+|--|--|--|
+||||
+</td>
 
+<td>
 |Title|Stars|Technology|
 |--|--|--|
 ||||
 </td></tr>
+
 </table>
  
 <table>
