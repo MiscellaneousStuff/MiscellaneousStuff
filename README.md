@@ -5,7 +5,7 @@
 # 🖥️ Open Source Projects
 <center>
 <table>
-<tr><th>Novel/Inspired Approaches<br>Paper Re-Implementations</th><tr>BSc/MEng Computer Science</tr></tr>
+<tr><th>Novel/Inspired Approaches<br>Paper Re-Implementations</th><th>BSc/MEng Computer Science</th></tr>
 
 <tr><td>
 
