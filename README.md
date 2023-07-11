@@ -4,7 +4,7 @@
  
 |Title|Stars|Technology|
  |--|--|--|
-|PyLoL|https://img.shields.io/github/stars/MiscellaneousStuff/pylol?style=flat-square&labelColor=black|![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
+|PyLoL|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/pylol?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
 
 </td></tr>
 </table>
