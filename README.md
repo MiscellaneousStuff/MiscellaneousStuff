@@ -35,7 +35,7 @@
 
 |Title|Stars|Technology|
 |--|--|--|
-|[SOTA sEMG Silent Speech Recognition]|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/semg-asr?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
+|[SOTA sEMG ASR](<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/semg-asr?style=flat-square&labelColor=black"/>)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/semg-asr?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
 </td>
 
 <td>
