@@ -1,21 +1,13 @@
 ## Open Source Projects
 <table>
-<tr><th>Novel Approaches</th><th>Inspired Approaches</th><th>Paper Re-Implementations</th></tr>
+<tr><th>Novel/Inspired Approaches</th><th>Paper Re-Implementations</th></tr>
 
 <tr><td>
 
 |Title|Stars|Technology|
 |--|--|--|
 |[PhoneLM](https://github.com/MiscellaneousStuff/PhoneLM)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/PhoneLM?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
-
-</td>
-
-<td>
-
-|Title|Stars|Technology|
-|--|--|--|
 |[DALL-E](https://github.com/MiscellaneousStuff/dall-e)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/dall-e?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
-
 </td>
 
 <td>
