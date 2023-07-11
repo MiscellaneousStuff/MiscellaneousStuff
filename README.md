@@ -27,7 +27,7 @@
  
 |Title|Stars|Technology|
 |--|--|--|
-|[PyLoL](https://github.com/MiscellaneousStuff/pylol)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/pylol?style=flat-square&labelColor=black"/><br/>[![Downloads](https://pepy.tech/badge/pylol-rl)](https://pepy.tech/project/pylol-rl)|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
+|[PyLoL](https://github.com/MiscellaneousStuff/pylol) [![Downloads](https://pepy.tech/badge/pylol-rl)](https://pepy.tech/project/pylol-rl)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/pylol?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
 |[Patch 4.20 RL Sandbox](https://github.com/MiscellaneousStuff/LeagueSandbox-RL-Learning)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/LeagueSandbox-RL-Learning?style=flat-square&labelColor=black"/>|![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)|
 
 </td><td>
