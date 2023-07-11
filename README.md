@@ -32,7 +32,7 @@
 
 <table>
 <tr><th>BSc/MEng Computer Science</th></tr>
-
+<tr>
 <td>
 |Title|Stars|Technology|
 |--|--|--|
