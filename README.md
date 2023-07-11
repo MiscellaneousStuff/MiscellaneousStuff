@@ -3,6 +3,7 @@
 * Improving Real-World Deployment Efficiency of ML Methods
 
 ## Open Source Projects
+<center>
 <table>
 <tr><th>Novel/Inspired Approaches</th><th>Paper Re-Implementations</th></tr>
 
@@ -49,6 +50,7 @@
 </td></tr>
 </table>
 -->
+</center>
 
 <details>
 <summary>📈 Stats</summary>
