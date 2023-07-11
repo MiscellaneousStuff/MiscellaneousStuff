@@ -64,21 +64,6 @@ My Github Stats
 
 </details>
 
-<!--
-
-**MiscellaneousStuff/MiscellaneousStuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 # Blog
 
 * [Projects Blog](https://miscellaneousstuff.github.io/) Explanation of Personal Projects
@@ -140,5 +125,4 @@ sEMG Silent Speech synthesis methods to EEG signals is viable.
 * [UoP: Bus App](https://github.com/MiscellaneousStuff/uop-bus-app) University of Portsmouth: Bus App
 * [Socket.IO Rock-Paper-Scissors](https://github.com/MiscellaneousStuff/rock-paper-scissors)
 
-[![MiscellaneousStuff's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiscellaneousStuff)](https://github.com/MiscellaneousStuff/github-readme-stats)
--->
+<!--[![MiscellaneousStuff's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiscellaneousStuff)](https://github.com/MiscellaneousStuff/github-readme-stats)-->
