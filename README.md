@@ -1,4 +1,5 @@
 * Conducting Research into Novel ML Methods (Speech, CV, NLP, Game-Playing, etc.)
+* Improving Real-World Deployment Efficiency of ML Methods
 
 ## Open Source Projects
 <table>
