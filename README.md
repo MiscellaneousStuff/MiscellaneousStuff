@@ -1,3 +1,5 @@
+* Conducting Research into Novel ML Methods (Speech, CV, NLP, Game-Playing, etc.)
+
 ## Open Source Projects
 <table>
 <tr><th>Novel/Inspired Approaches</th><th>Paper Re-Implementations</th></tr>
