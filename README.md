@@ -29,7 +29,7 @@
 </table>
 
 <table>
-<tr><th>BSc. Computer Science</th><th>MEng Computer Science</th></tr>
+<tr><th>BSc Computer Science</th><th>MEng Computer Science</th></tr>
 
 <tr><td>
 
@@ -44,7 +44,7 @@
  
 |Title|Stars|Technology|
 |--|--|--|
-|[ResNet](https://github.com/MiscellaneousStuff/resnet)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/resnet?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
+|[Traffic-Analysis Front/Backend](https://github.com/MEng-Team-Project/MEng-Team-Project-Web)|<img alt="Stars" src="https://img.shields.io/github/stars/MEng-Team-Project/MEng-Team-Project-Web?style=flat-square&labelColor=black"/>|![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)|
 |[Vision Transformer (ViT)](https://github.com/MiscellaneousStuff/vision-transformer)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/vision-transformer?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
 
 </td>
