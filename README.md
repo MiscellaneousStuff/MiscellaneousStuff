@@ -11,7 +11,7 @@
 
 |Title|Stars|Technology|
 |--|--|--|
-|[OpenAI Whisper - CPU](https://github.com/MiscellaneousStuff/openai-whisper-cpu)<br/>[Featured](https://youtu.be/TOo-HnjjuhU?t=1197)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/openai-whisper-cpu?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
+|[OpenAI Whisper - CPU](https://github.com/MiscellaneousStuff/openai-whisper-cpu)<br/>[Yannic Kilcher Discussion](https://youtu.be/TOo-HnjjuhU?t=1197)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/openai-whisper-cpu?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
 |[Meta SAM Demo Site](https://github.com/MiscellaneousStuff/meta-sam-demo)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/meta-sam-demo?style=flat-square&labelColor=black"/>|![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white) |
 |[PhoneLM](https://github.com/MiscellaneousStuff/PhoneLM)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/PhoneLM?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
 |[DALL-E](https://github.com/MiscellaneousStuff/dall-e)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/dall-e?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
