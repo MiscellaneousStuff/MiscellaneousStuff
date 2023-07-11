@@ -1,5 +1,5 @@
 <table>
-<tr><th>League of Legends</th</tr>
+<tr><th>League of Legends</th><td>EEG/EMG</td></tr>
 <tr><td>
  
 |Title|Stars|Technology|
@@ -8,8 +8,6 @@
 |[Patch 4.20 RL Sandbox](https://github.com/MiscellaneousStuff/LeagueSandbox-RL-Learning)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/LeagueSandbox-RL-Learning?style=flat-square&labelColor=black"/>|![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)|
 
 </td><td>
-
-<tr><th>EMG/EEG</th</tr>
 
 |Title|Stars|Technology|
  |--|--|--|
