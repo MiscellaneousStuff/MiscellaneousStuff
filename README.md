@@ -2,7 +2,7 @@
 <tr><th>League of Legends</th><th>EEG/EMG</th></tr>
 <tr><td>
  
-|Title|Stars|
+|Title|Stars|Technology|
 |--|--|--|
 |[PyLoL](https://github.com/MiscellaneousStuff/pylol)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/pylol?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
 
