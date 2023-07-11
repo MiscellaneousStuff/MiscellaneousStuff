@@ -27,7 +27,31 @@
 </tr>
 
 </table>
+
+<table>
+<tr><th>BSc. Computer Science</th><th>MEng Computer Science</th></tr>
+
+<tr><td>
+
+|Title|Stars|Technology|
+|--|--|--|
+|[PhoneLM](https://github.com/MiscellaneousStuff/PhoneLM)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/PhoneLM?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
+|[DALL-E](https://github.com/MiscellaneousStuff/dall-e)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/dall-e?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
+|[MegaByte](https://github.com/MiscellaneousStuff/megabyte)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/megabyte?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
+</td>
+
+<td>
  
+|Title|Stars|Technology|
+|--|--|--|
+|[ResNet](https://github.com/MiscellaneousStuff/resnet)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/resnet?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
+|[Vision Transformer (ViT)](https://github.com/MiscellaneousStuff/vision-transformer)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/vision-transformer?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
+
+</td>
+</tr>
+
+</table>
+
 <table>
 <tr><th>League of Legends</th></tr>
 <td>
