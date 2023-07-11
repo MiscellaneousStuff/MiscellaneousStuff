@@ -5,13 +5,13 @@
 <tr><td>
 |Title|Stars|Technology|
 |--|--|--|
-||||
+|a|b|c|
 </td>
 
 <td>
 |Title|Stars|Technology|
 |--|--|--|
-||||
+|a|b|c|
 </td></tr>
 
 </table>
