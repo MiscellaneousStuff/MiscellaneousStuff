@@ -1,5 +1,14 @@
 ## Open Source Projects
+<table>
+<tr><th>Paper Re-Implementations</th><th>Inspired Approaches</th></tr>
+<tr><td>
 
+|Title|Stars|Technology|
+|--|--|--|
+||||
+</td></tr>
+</table>
+ 
 <table>
 <tr><th>League of Legends</th><th>EEG/EMG</th></tr>
 <tr><td>
