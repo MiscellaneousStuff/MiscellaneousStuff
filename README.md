@@ -1,12 +1,22 @@
 <table>
 <tr><th>League of Legends</th</tr>
 <tr><td>
+ 
 |Title|Stars|Technology|
  |--|--|--|
 |PyLoL|https://img.shields.io/github/stars/MiscellaneousStuff/pylol?style=flat-square&labelColor=black|![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
- </td>
-</tr>
+
+</td></tr>
 </table>
+
+<details>
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiscellaneousStuff&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiscellaneousStuff&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiscellaneousStuff&theme=dracula)
+</details>
 
 <!--
 
