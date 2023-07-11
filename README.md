@@ -45,7 +45,7 @@
 |Title|Stars|Technology|
 |--|--|--|
 |[Traffic-Analysis Front/Backend](https://github.com/MEng-Team-Project/MEng-Team-Project-Web)|<img alt="Stars" src="https://img.shields.io/github/stars/MEng-Team-Project/MEng-Team-Project-Web?style=flat-square&labelColor=black"/>|![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br/>![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)<br/>![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)|
-|[Traffic-Analysis ML Microservice](https://github.com/MEng-Team-Project/MEng-Team-Project-ML)|<img alt="Stars" src="https://img.shields.io/github/stars/MEng-Team-Project/MEng-Team-Project-ML?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)|
+|[Traffic-Analysis ML Microservice](https://github.com/MEng-Team-Project/MEng-Team-Project-ML)|<img alt="Stars" src="https://img.shields.io/github/stars/MEng-Team-Project/MEng-Team-Project-ML?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)<br/>![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)|
 
 </td>
 </tr>
