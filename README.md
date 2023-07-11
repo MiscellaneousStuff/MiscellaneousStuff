@@ -33,7 +33,6 @@
 |Title|Stars|Technology|
 |--|--|--|
 |[League of Legends Season 13 RL](https://github.com/MiscellaneousStuff/tlol-rl)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/tlol-rl?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)<br/>![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)|
-</td><td>
 |[PyLoL (League 4.20 RL)](https://github.com/MiscellaneousStuff/pylol) [![Downloads](https://pepy.tech/badge/pylol-rl)](https://pepy.tech/project/pylol-rl)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/pylol?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
 |[Patch 4.20 RL Sandbox](https://github.com/MiscellaneousStuff/LeagueSandbox-RL-Learning)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/LeagueSandbox-RL-Learning?style=flat-square&labelColor=black"/>|![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)<br/>![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)|
 |[LeagueGPT](https://github.com/MiscellaneousStuff/tlol-llm)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/tlol-llm?style=flat-square&labelColor=black"/>|asd|
