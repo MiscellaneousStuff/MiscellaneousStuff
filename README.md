@@ -1,14 +1,14 @@
 ## Open Source Projects
 <table>
 <tr><th>Novel Approaches</th><th>Inspired Approaches</th><th>Paper Re-Implementations</th></tr>
- 
-<td>
+
+<tr><td>
 
 |Title|Stars|Technology|
 |--|--|--|
 |[PhoneLM](https://github.com/MiscellaneousStuff/PhoneLM)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/PhoneLM?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
 
-</td></tr>
+</td>
 
 <td>
 
@@ -16,9 +16,9 @@
 |--|--|--|
 |[DALL-E](https://github.com/MiscellaneousStuff/dall-e)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/dall-e?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
 
-</td></tr>
+</td>
 
-<tr><td>
+<td>
  
 |Title|Stars|Technology|
 |--|--|--|
@@ -26,6 +26,7 @@
 |[Vision Transformer (ViT)](https://github.com/MiscellaneousStuff/vision-transformer)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/vision-transformer?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
 
 </td>
+</tr>
 
 </table>
  
