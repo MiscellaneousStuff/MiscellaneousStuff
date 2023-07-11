@@ -71,6 +71,8 @@ My Github Stats
 
 </details>
 
+<details>
+<summary>All Projects</summary>
 # 📝 Blog
 
 * [Projects Blog](https://miscellaneousstuff.github.io/) Explanation of Personal Projects
@@ -132,4 +134,5 @@ sEMG Silent Speech synthesis methods to EEG signals is viable.
 * [UoP: Bus App](https://github.com/MiscellaneousStuff/uop-bus-app) University of Portsmouth: Bus App
 * [Socket.IO Rock-Paper-Scissors](https://github.com/MiscellaneousStuff/rock-paper-scissors)
 
+</details>
 <!--[![MiscellaneousStuff's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiscellaneousStuff)](https://github.com/MiscellaneousStuff/github-readme-stats)-->
