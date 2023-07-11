@@ -12,6 +12,7 @@
 |Title|Stars|Technology|
  |--|--|--|
 |[EEG Speech Decoding](https://github.com/MiscellaneousStuff/eeg-stimuli)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/eeg-stimuli?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
+|[EEG Speech Synthesis](https://github.com/MiscellaneousStuff/kara-one-transduction)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/kara-one-transduction?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
 </td></tr>
 </table>
 
