@@ -4,7 +4,7 @@
  
 |Title|Stars|Technology|Details|
  |--|--|--|--|
-|[PyLoL](https://github.com/MiscellaneousStuff/pylol)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/pylol?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|RL Framework for League of Legends [![Downloads](https://pepy.tech/badge/pylol-rl)](https://pepy.tech/project/pylol-rl) Downloads|
+|[PyLoL](https://github.com/MiscellaneousStuff/pylol)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/pylol?style=flat-square&labelColor=black"/>|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|RL Framework for League of Legends [![Downloads](https://pepy.tech/badge/pylol-rl)](https://pepy.tech/project/pylol-rl)|
 |[Patch 4.20 RL Sandbox](https://github.com/MiscellaneousStuff/LeagueSandbox-RL-Learning)|<img alt="Stars" src="https://img.shields.io/github/stars/MiscellaneousStuff/LeagueSandbox-RL-Learning?style=flat-square&labelColor=black"/>|![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)|League of Legends Patch 4.20 Simulator, Adapted for RL|
 
 </td><td>
