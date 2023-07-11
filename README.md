@@ -1,4 +1,13 @@
+<table>
+<tr><th>League of Legends</th</tr>
+<tr><td>
+|Title|Stars|Technology|
+|PyLoL|https://img.shields.io/github/stars/MiscellaneousStuff/pylol?style=flat-square&labelColor=black|![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
+ </td>
+</table>
+
 <!--
+
 **MiscellaneousStuff/MiscellaneousStuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,7 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 # Blog
 
@@ -75,3 +83,4 @@ sEMG Silent Speech synthesis methods to EEG signals is viable.
 * [Socket.IO Rock-Paper-Scissors](https://github.com/MiscellaneousStuff/rock-paper-scissors)
 
 [![MiscellaneousStuff's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiscellaneousStuff)](https://github.com/MiscellaneousStuff/github-readme-stats)
+-->
