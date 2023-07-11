@@ -1,3 +1,5 @@
+## Open Source Projects
+
 <table>
 <tr><th>League of Legends</th><th>EEG/EMG</th></tr>
 <tr><td>
