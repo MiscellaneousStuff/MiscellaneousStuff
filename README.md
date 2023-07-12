@@ -1,7 +1,7 @@
 * 🎓 Recently Graduated MEng Computer Science Student
 * 💡 Conducting Research into Novel ML Methods (Speech, CV, NLP, Game-Playing, etc.)
 * 🔧 Improving Real-World Deployment Efficiency of ML Methods
-* [League of Legends Reinforcement Learning Discord](https://discord.com/channels/1072815781039050842/1072815781039050845)
+* 🎮 [League of Legends Reinforcement Learning Discord](https://discord.com/channels/1072815781039050842/1072815781039050845)
   
 # 🖥️ Open Source Projects
 <center>
