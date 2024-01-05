@@ -1,5 +1,5 @@
 * 🎥 Streaming R&D of Human-Level League of Legends AI on [Twitch](https://www.twitch.tv/miscellaneousstuffai)
-* 🎓 Recently Graduated MEng Computer Science Student
+* 🎓 Recently Graduated MEng Computer Science Student and Founding
 * 💡 Conducting Research into Novel ML Methods (Speech, CV, NLP, Game-Playing, etc.)
 * 🔧 Improving Real-World Deployment Efficiency of ML Methods
 * 🎮 [League of Legends Reinforcement Learning Discord](https://discord.com/channels/1072815781039050842/1072815781039050845)
