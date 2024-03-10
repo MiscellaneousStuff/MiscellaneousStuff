@@ -1,4 +1,4 @@
-* 🎥 Streaming R&D of Human-Level League of Legends AI on [Twitch](https://www.twitch.tv/miscellaneousstuffai)
+* 🍏 Co-Founder at [CodeVerse](https://www.codeverse.uk)
 * 🎓 Recently Graduated MEng Computer Science Student and Founding
 * 💡 Conducting Research into Novel ML Methods (Speech, CV, NLP, Game-Playing, etc.)
 * 🔧 Improving Real-World Deployment Efficiency of ML Methods
