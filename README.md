@@ -1,4 +1,4 @@
-<!--* 🍏 Co-Founder at [Anterion](https://anterion.ai)-->
+🍏 Co-Founder at [Anterion](https://anterion.ai)
 <!--* 🍏 Co-Founder at [CodeVerse](https://www.codeverse.uk)-->
 * 💡 Conducting Research into Novel ML Methods (Speech, CV, NLP, Game-Playing, etc.)
 * 🔧 Improving Real-World Deployment Efficiency of ML Methods
