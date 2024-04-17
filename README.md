@@ -1,4 +1,5 @@
-* 🍏 Co-Founder at [CodeVerse](https://www.codeverse.uk)
+<!--* 🍏 Co-Founder at [Anterion](https://anterion.ai)-->
+<!--* 🍏 Co-Founder at [CodeVerse](https://www.codeverse.uk)-->
 * 💡 Conducting Research into Novel ML Methods (Speech, CV, NLP, Game-Playing, etc.)
 * 🔧 Improving Real-World Deployment Efficiency of ML Methods
 * 🎮 [League of Legends Reinforcement Learning Discord](https://discord.com/channels/1072815781039050842/1072815781039050845)
